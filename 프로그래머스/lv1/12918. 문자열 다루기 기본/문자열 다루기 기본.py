@@ -7,6 +7,4 @@ def solution(s):
                 result.append(a)
         if len(result) == len(s):
             return True
-        else:
-            return False
-    return False
+        return False
